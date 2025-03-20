@@ -40,16 +40,6 @@ This analysis provides actionable insights into customer behavior and loan accep
 
 ---
 
-### **Next Steps: Power BI Report**
-To visualize this analysis, import the cleaned dataset into Power BI and create:
-- **Bar Chart:** Loan Acceptance vs. Income Levels
-- **Pie Chart:** Loan Acceptance by Education Level
-- **Scatter Plot:** Loan Acceptance vs. Credit Card Spending
-- **Heatmap:** Correlation of financial factors with loan acceptance
-
-These visualizations will provide a clearer understanding of the patterns and help refine business strategies.
-
----
 **Prepared by:** Shubham Choudhary  
 **Role:** Data Analyst
 
